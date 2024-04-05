@@ -1,2 +1,2 @@
-# Habitat_image
+# Habitat_image_Kmeans
 Test version for habitat imaging.
